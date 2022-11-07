@@ -1,4 +1,4 @@
-package com.example.securityproject.domain.repo;
+package com.example.securityproject.repo;
 
 import com.example.securityproject.domain.Role;
 import org.springframework.data.jpa.repository.JpaRepository;

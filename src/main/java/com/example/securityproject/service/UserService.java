@@ -1,4 +1,4 @@
-package com.example.securityproject.domain.service;
+package com.example.securityproject.service;
 
 import com.example.securityproject.domain.Role;
 import com.example.securityproject.domain.User;
